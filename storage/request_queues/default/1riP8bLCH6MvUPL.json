@@ -1,0 +1,9 @@
+{
+	"id": "1riP8bLCH6MvUPL",
+	"json": "{\"id\":\"1riP8bLCH6MvUPL\",\"url\":\"https://careers.cargill.com/en/search-jobs?glat=46.21049118041992&glon=6.146759986877441\",\"loadedUrl\":\"https://careers.cargill.com/en/search-jobs?glat=46.21049118041992&glon=6.146759986877441\",\"uniqueKey\":\"https://careers.cargill.com/en/search-jobs?glat=46.21049118041992&glon=6.146759986877441\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2024-02-27T16:58:15.384Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://careers.cargill.com/en/search-jobs?glat=46.21049118041992&glon=6.146759986877441",
+	"url": "https://careers.cargill.com/en/search-jobs?glat=46.21049118041992&glon=6.146759986877441"
+}
